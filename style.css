@@ -1,0 +1,39 @@
+.parent {
+    background-color: coral;
+    height: 100vh;
+}
+
+.upper h1 {
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 5.5vw;
+    font-weight: bold;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-around;
+}
+
+.visibility{
+    display: none;
+}
+
+.middle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.b-l h1 {
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 5.5vw;
+    font-weight: bold;
+}
+
+.b-r h1 {
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 5.5vw;
+    font-weight: bold;
+}
